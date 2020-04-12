@@ -1,2 +1,2 @@
-# skoltech_ml2020
-HW assignment for the course
+# Machine Learning course at SkolTech
+Here one can find my solutions for homework assignments
