@@ -1,0 +1,8 @@
+*__MACOSX*
+*data*
+*Results*
+
+*.zip
+*.csv
+*.ipynb_checkpoints
+*.pyc
